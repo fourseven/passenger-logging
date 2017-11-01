@@ -1,0 +1,5 @@
+{
+  "nginx_config_template": "config/nginx.conf.erb",
+  "log_level": 1
+}
+
